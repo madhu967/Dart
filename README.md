@@ -1,7 +1,10 @@
 Contents
 .setup
+
 .Fundamentals
+
 .DataTypes
+
 .String
 .Type Conversion
 .Constant
